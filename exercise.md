@@ -1,5 +1,7 @@
 # exercise
 
+[中文](./exercise_zh.md)
+
 Build your own GPT-4 Tokenizer!
 
 ### Step 1
